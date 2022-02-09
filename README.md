@@ -1,3 +1,1 @@
-moskau-sw.github.io 
-\n
-portfolio site
+moskau-sw.github.io - portfolio
