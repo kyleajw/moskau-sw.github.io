@@ -28,7 +28,7 @@ a{
 }
 
 .box-with-shadow{
-    font-size: 1vw;
+    font-size: 2vw;
     display: flex;
     position: relative;  
     width: 22.5vw;
